@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Bira-CSS" height="130" width="140" src="adonisjs-original-wordmark.svg">
-  <img align="center" alt="Bira-CSS" height="130" width="140" src="nodejs-original-wordmark.svg">
+  <img align="center" alt="Bira-CSS" height="130" width="140" src="./src/img/adonisjs-original-wordmark.svg">
+  <img align="center" alt="Bira-CSS" height="130" width="140" src="./src/img/nodejs-original-wordmark.svg">
 </div>
   
   
