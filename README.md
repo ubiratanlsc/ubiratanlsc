@@ -21,8 +21,12 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratanlsc&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <div style="display: inline_block" align="laft"><br>
-  <img alt="Bira-CSS" height="130" width="140" src="./src/img/adonisjs-original-wordmark.svg">
   <img alt="Bira-CSS" height="130" width="140" src="./src/img/nodejs-original-wordmark.svg">
+  <img alt="Bira-CSS" height="130" width="140" src="./src/img/adonisjs-original-wordmark.svg">
+  <img alt="Bira-CSS" height="130" width="140" src="./src/img/javascript-plain.svg">
+  <img alt="Bira-CSS" height="130" width="140" src="./src/img/typescript-plain.svg">
+  <img alt="Bira-CSS" height="130" width="140" src="./src/img/html5-plain-wordmark.svg">
+  <img alt="Bira-CSS" height="130" width="140" src="./src/img/css3-plain-wordmark.svg">
 </div>
   
   
